@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Matrix" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-12-17T10:07:04" hostname="DESKTOP-E25QIIB" time="0.296">
+<testsuite name="Matrix" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-12-17T10:08:15" hostname="DESKTOP-E25QIIB" time="0.259">
   <properties/>
-  <testcase name="Determinant" classname="Matrix" time="0.296"/>
+  <testcase name="Determinant" classname="Matrix" time="0.252"/>
+  <testcase name="Transpose" classname="Matrix" time="0.007"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
